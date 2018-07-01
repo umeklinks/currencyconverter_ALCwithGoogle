@@ -1,6 +1,6 @@
 #ALC3.0 Currency Converter
   
-  It's a Progressive Web application, that allows it users to freely convert currencies, right from their Web Browser quickly and conveniently.  
+  This Web application, allows it users to convert currencies with ease.  
 
   `DEVELOPER'S NAME: ABRAHAM KALU UME
    SLACK USERNAME: ABRAHAM
@@ -8,7 +8,7 @@
 
 ## ARCHITECTURE
 
-  The code for the app is available in `/currency-converter/app`,
+  The source code for the app is available in `/currency-converter/app`,
   Here are the directories which it is splitted into:
 
   - `img`: contains images used in the app.  
@@ -21,13 +21,6 @@
 
 ## FEATURES
 
-  | Feature | Description |
-  | ------- | ----------- |
-  | Convert currencies | Use the latest exchange rates to convert currencies, quickly and conveniently |
-  | Progresive Web Application | The app take an offline first approach, which means it works online and offline |
+  || Convert currencies || Use the latest exchange rates to convert currencies, quickly and conveniently ||
+  || Progresive Web Application || The app take an offline first approach, which means it works online and offline ||
 
-## Dependencies
-  ### BUILT WITH
-  
-  - `none except`
-  - `vanillar javascript`
