@@ -1,10 +1,10 @@
 #ALC3.0 Currency Converter
   
   It's a Progressive Web application, that allows it users to freely convert currencies, right from their Web Browser quickly and conveniently.  
-## Here is the Link to the Project (http://bit.ly/ALC-zealmat)
-  `AUTHOR'S NAME: MATHIAS AMODU
-  AUTHOR'S SLACK USERNAME: ZEALMAT
-  AUTHOR'S GITHUB USERNAME: MATHIAS1358`
+
+  `DEVELOPER'S NAME: ABRAHAM KALU UME
+   SLACK USERNAME: ABRAHAM
+   GITHUB USERNAME: UMEKLINKS`
 
 ## ARCHITECTURE
 
